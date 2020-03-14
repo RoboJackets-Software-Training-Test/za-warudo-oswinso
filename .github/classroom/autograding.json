@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "za warudo",
+      "setup": "",
+      "run": "./build/za_warudo",
+      "input": "za warudo",
+      "output": "toki wo tomare",
+      "comparison": "included",
+      "timeout": 1,
+      "points": null
+    }
+  ]
+}
