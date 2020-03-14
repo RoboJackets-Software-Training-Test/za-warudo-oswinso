@@ -24,8 +24,8 @@
       "name": "exact za_warudo",
       "setup": "cmake -H. -Bbuild && cmake --build build",
       "run": "./build/za_warudo",
-      "input": "za_warudo",
-      "output": "za_warudo",
+      "input": "za warudo",
+      "output": "toki wo tomare",
       "comparison": "exact",
       "timeout": 1,
       "points": 1
