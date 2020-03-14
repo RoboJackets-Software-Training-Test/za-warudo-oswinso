@@ -3,12 +3,12 @@
 
 int main(int argc, char** argv)
 {
-  // std::string input;
-  // std::getline(std::cin, input);
-  // if (input == "za warudo")
-  // {
-  //   std::cout << "toki wo tomare" << std::endl;
-  // }
+  std::string input;
+  std::getline(std::cin, input);
+  if (input == "za warudo")
+  {
+    std::cout << "toki wo tomareeeeeeeeeeeeeeee" << std::endl;
+  }
 
   return 0;
 }
