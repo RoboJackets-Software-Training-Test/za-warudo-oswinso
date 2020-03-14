@@ -1,1 +1,0 @@
-/usr/lib/ccache/g++    -rdynamic CMakeFiles/za_warudo.dir/za_warudo.cpp.o  -o za_warudo 
