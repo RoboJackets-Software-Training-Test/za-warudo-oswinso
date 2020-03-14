@@ -1,3 +1,0 @@
-/tmp/warudo/build/CMakeFiles/rebuild_cache.dir
-/tmp/warudo/build/CMakeFiles/za_warudo.dir
-/tmp/warudo/build/CMakeFiles/edit_cache.dir
