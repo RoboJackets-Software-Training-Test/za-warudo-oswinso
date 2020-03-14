@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "za warudo",
-      "setup": "",
+      "setup": "cmake -H. -Bbuild && cmake --build build",
       "run": "./build/za_warudo",
       "input": "za warudo",
       "output": "toki wo tomare",
